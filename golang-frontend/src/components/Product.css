@@ -1,0 +1,32 @@
+/* src/components/Product.css */
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.input {
+    margin-bottom: 15px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+.button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.message {
+    margin-top: 20px;
+    font-size: 14px;
+    color: green;
+}
